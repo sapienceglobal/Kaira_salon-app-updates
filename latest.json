@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0+2",
-  "apkUrl": "https://github.com/sapienceglobal/Kaira_salon-app-updates/releases/download/1.0.0%2B2/kairamakeover-salonTime.apk",
+  "version": "1.0.0+3",
+  "apkUrl": "https://github.com/sapienceglobal/Kaira_salon-app-updates/releases/download/1.0.0%2B3/kairamakeover-salonTime.apk",
   "notes": "• Improved UI for Popular Services\n• CUD Operations are now instant\n• OTA Update Supported added!"
 }
